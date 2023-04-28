@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* call child component ">" */
+header > img {
+    width: 60px;
+}
+
+nav {
+    /* display - type of element */
+    /* display : inline-block - inline that has all property as a block */
+    display: inline-block;
+    text-align: center;
+}
+
+main img {
+    width: 500px;
+}

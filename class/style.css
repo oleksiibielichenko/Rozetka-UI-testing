@@ -1,0 +1,34 @@
+/* 
+    * - all existed elements 
+*/
+
+/* {} - scope, current rules */
+
+* {
+    /* px - fixed point of size */
+    
+    /* em */
+    /* % */
+    /* vw */
+    /* vh */
+    /* indoor gap -> padding */
+    padding : 0px;
+    /* outdoor gap -> margin */
+    margin: 0px;   
+}
+
+
+header {
+    background: darkmagenta;
+    padding: 50px;
+    text-align: center;
+    /* margin: 50px; */
+} 
+
+
+header a {
+    color: aliceblue;
+    text-decoration: none;
+    /* Y , X */
+    margin: 0 25px;
+}
