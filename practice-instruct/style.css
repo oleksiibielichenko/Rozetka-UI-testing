@@ -4,8 +4,8 @@
 }
 
 /* call child component ">" */
-header > img {
-    width: 60px;
+header>img {
+    width: 200px;
 }
 
 nav {
